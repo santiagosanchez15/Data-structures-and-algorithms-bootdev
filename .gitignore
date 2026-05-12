@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# uv
+.python-version
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
